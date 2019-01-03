@@ -10,6 +10,10 @@ eureka:
     service-url:
       defaultZone: http://127.0.0.1:8761/eureka  # default address
 
+management:
+  security:
+    enabled: false
+
 spring:
   rabbitmq:
     host: localhost
