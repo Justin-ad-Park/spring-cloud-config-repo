@@ -1,7 +1,7 @@
 server:
   port: 8082
 api:
-  name: api-Justin1
+  name: api V1.0
 
 eureka:
   instance:
