@@ -1,7 +1,7 @@
 server:
   port: 8083
 api:
-  name: api-v2
+  version: api-v2
 
 spring:
   rabbitmq:
